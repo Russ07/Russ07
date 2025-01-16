@@ -1,11 +1,12 @@
 ## Hi there 👋 I'm Ruslan Semko
 
-Hi, I'm Ruslan Semko! As a Junior Software Engineer, I specialize in crafting robust and innovative solutions. I have a solid foundation in full-stack development, allowing me to build dynamic and responsive applications for both web and mobile platforms. I'm enthusiastic about embracing the latest technologies to create impactful projects. I thrive on tackling new challenges and enjoy bringing creative ideas to life.
+Hi, as a **Junior Software Engineer**, I specialize in crafting robust and innovative solutions. I have a solid foundation in full-stack development, allowing me to build dynamic and responsive applications for both web and mobile platforms. I'm enthusiastic about embracing the latest technologies to create impactful projects. I thrive on tackling new challenges and enjoy bringing creative ideas to life.
 <br>
 <br>
 📫 Lets Connect
 <br>
-<a href="https://www.linkedin.com/in/ruslan-semko" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8afae0bf-8eea-4acd-b7eb-570095e1d801" height="30" style="padding: 10px;" /></a>
+
+<a href="https://www.linkedin.com/in/ruslan-semko" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8afae0bf-8eea-4acd-b7eb-570095e1d801" height="30"/></a>
 
 
 <!--
