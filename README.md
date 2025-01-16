@@ -2,7 +2,6 @@
 
 Hi, as a **Junior Software Engineer**, I specialize in crafting robust and innovative solutions. I have a solid foundation in full-stack development, allowing me to build dynamic and responsive applications for both web and mobile platforms. I'm enthusiastic about embracing the latest technologies to create impactful projects. I thrive on tackling new challenges and enjoy bringing creative ideas to life.
 <br>
-<br>
 ### ⚙️ Skills
 - Languages & Frameworks: React, Express.js, Node.js, MySQL, JavaScript
 - Styling & UI: CSS, SASS
