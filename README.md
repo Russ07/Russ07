@@ -4,8 +4,7 @@ Hi, I'm Ruslan Semko! As a Junior Software Engineer, I specialize in crafting ro
 <br>
 📫 Lets Connect
 <br>
-<a href="https://www.linkedin.com/in/ruslan-semko" target="blank"><img align="center" src="![image](https://github.com/user-attachments/assets/8afae0bf-8eea-4acd-b7eb-570095e1d801)
-" height="100" /></a>
+<a href="https://www.linkedin.com/in/ruslan-semko" target="blank"><img align="center" src="https://github.com/user-attachments/assets/8afae0bf-8eea-4acd-b7eb-570095e1d801" height="100" /></a>
 
 
 <!--
