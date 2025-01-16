@@ -1,5 +1,10 @@
 ## Hi there 👋 I'm Ruslan Semko
 
+Hi, I'm Ruslan Semko! As a Junior Software Engineer, I specialize in crafting robust and innovative solutions. I have a solid foundation in full-stack development, allowing me to build dynamic and responsive applications for both web and mobile platforms. I'm enthusiastic about embracing the latest technologies to create impactful projects. I thrive on tackling new challenges and enjoy bringing creative ideas to life.
+📫 Lets Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Profile-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ruslan-semko)
+
+
 <!--
 **Russ07/Russ07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
